@@ -1,8 +1,8 @@
-// Ruben Navarro
-// Date: 03/30/2019
-// COP3252
-// Assignment 5
-// Enemy.java
+/**********************/
+// Date: March 30, 2019
+// Name: Ruben Navarro
+// Java-Bean Forest
+/**********************/
 
 import java.util.Random;
 
