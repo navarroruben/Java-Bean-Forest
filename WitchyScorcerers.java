@@ -1,8 +1,8 @@
-// Ruben Navarro
-// Date: 03/30/2019
-// COP3252
-// Assignment 5
-// WitchyScorcerers.java
+/**********************/
+// Date: March 30, 2019
+// Name: Ruben Navarro
+// Java-Bean Forest
+/**********************/
 
 public class WitchyScorcerers extends Enemy {
 
@@ -29,5 +29,4 @@ public class WitchyScorcerers extends Enemy {
     public String toString() {
         return "Witchy Scorcerer";
     }
-
 }
