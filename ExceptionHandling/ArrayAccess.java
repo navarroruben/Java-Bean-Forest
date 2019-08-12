@@ -1,9 +1,8 @@
-/*
-Navarro, Ruben
-COP-3252
-Assignment 6
-Date 04/03/2019
-*/
+/**********************/
+// Date: March 30, 2019
+// Name: Ruben Navarro
+// Java-Bean Forest
+/**********************/
 
 // ArrayAccess.java
 import java.awt.FlowLayout;
